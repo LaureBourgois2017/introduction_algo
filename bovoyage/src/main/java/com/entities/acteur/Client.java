@@ -9,7 +9,7 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 
 /** 
- *  Le client n'est pas forc?ment voyageur, c'est celui ou celle qui finance le voyage.
+ *  Le client n'est pas forcément voyageur, c'est celui ou celle qui finance le voyage.
  */
 @Entity
 @Table(name="clientTiers")
